@@ -7,5 +7,3 @@ This Color Theme was created specifically for using C++ in VSCode, updates and b
 * XML
 * JSON
 * Markdown
-
-**Enjoy!**
