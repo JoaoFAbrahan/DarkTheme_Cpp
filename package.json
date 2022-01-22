@@ -1,0 +1,31 @@
+{
+    "name": "darktheme-cpp",
+    "displayName": "DarkTheme_C++",
+    "description": "Theme developed for C/C++ programming in VSCode",
+    "version": "0.0.1",
+    "publisher": "JoaoFAbrahan",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "c/c++"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkTheme C++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkTheme C++-color-theme.json"
+            }
+        ]
+    }
+}
