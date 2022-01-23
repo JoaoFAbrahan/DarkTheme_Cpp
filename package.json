@@ -1,9 +1,9 @@
 {
     "name": "darktheme-cpp",
-    "displayName": "DarkTheme_C++",
+    "displayName": "DarkTheme C++",
     "description": "Theme developed for C/C++ programming in VSCode",
     "version": "0.0.1",
-    "publisher": "DarkTheme C++",
+    "publisher": "DarkThemeCpp",
     "repository": {
         "type": "git",
         "url": "https://github.com/JoaoFAbrahan/DarkTheme_Cpp.git"
