@@ -432,7 +432,7 @@
 			"scope": "keyword.cmake",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F17500"
+				"foreground": "#b97dd1"
 			}
 		},
 
@@ -446,13 +446,50 @@
 			}
 		},
 
+		/// Storage CMake
+		{
+			"name": "Storage CMake",
+			"scope": "storage.source.cmake",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#f3bd6c"
+			}
+		},
+
 		/// Source CMake
 		{
 			"name": "Source CMake",
 			"scope": "source.cmake",
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#ffffff"
+			}
+		},
+
+		/// Comment CMake
+		{
+			"name": "Comment CMake",
+			"scope": "comment.source.cmake",
+			"settings": {
+				"foreground": "#517b7e"
+			}
+		},
+
+		/// Constant CMake
+		{
+			"name": "Constant CMake",
+			"scope": "constant.source.cmake",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#ff0e87"
+			}
+		},
+
+		/// String CMake
+		{
+			"name": "String CMake",
+			"scope": "string.source.cmake",
+			"settings": {
+				"foreground": "#d87148"
 			}
 		},
 	]
